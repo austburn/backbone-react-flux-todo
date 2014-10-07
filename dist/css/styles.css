@@ -1,0 +1,23 @@
+#content {
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+  min-height: 500px;
+  padding: 20px;
+  background-color: #34495e;
+  color: #fff;
+}
+
+#main {
+  color: #000;
+  margin-bottom: 70px;
+}
+
+#tracker {
+  background-color: #95a5a6;
+  min-height: 300px;
+  max-height: 300px;
+  overflow-y: scroll;
+  border: 5px #f5f5f5 solid;
+  border-radius: 3px;
+}
